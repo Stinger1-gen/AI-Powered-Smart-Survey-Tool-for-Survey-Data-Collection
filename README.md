@@ -51,3 +51,30 @@ Technology Stack (Indicative)
 •	Messaging & Telephony APIs: WhatsApp Business API, Twilio/Exotel
 •	Reports & Dashboard: Plotly/Dash, Grafana
 •	Deployment: Docker containers on NIC Cloud / AWS / Kubernetes cluster
+
+output-<img width="1919" height="928" alt="Screenshot 2025-08-14 231336" src="https://github.com/user-attachments/assets/fba3ef32-4bf7-4b41-a26a-76de4550d051" />
+1. In customer experience survey
+  a. <img width="1919" height="924" alt="Screenshot 2025-08-14 231543" src="https://github.com/user-attachments/assets/42af69e5-70c1-42cc-a899-6fcb197965ce" />
+  b. <img width="1919" height="927" alt="Screenshot 2025-08-14 231555" src="https://github.com/user-attachments/assets/442b15dd-176c-4e73-85f7-cb7ca41cce6e" />
+  c. <img width="1919" height="923" alt="Screenshot 2025-08-14 231610" src="https://github.com/user-attachments/assets/1731a456-6d46-4468-8f37-c45ca4543100" />
+  d. <img width="1911" height="946" alt="Screenshot 2025-08-14 231621" src="https://github.com/user-attachments/assets/a0fb64b0-6f0e-4df8-ab43-b4be77b53294" />
+  e. <img width="1919" height="928" alt="Screenshot 2025-08-14 231633" src="https://github.com/user-attachments/assets/7a08879e-f8b1-4c49-9218-81fd64e112ba" />
+
+2. In employee engagement survey
+  a. <img width="1919" height="917" alt="Screenshot 2025-08-14 231954" src="https://github.com/user-attachments/assets/0cf09afc-5a50-4c87-b69f-b3aa3f98c7c9" />
+  b. <img width="1919" height="925" alt="Screenshot 2025-08-14 232018" src="https://github.com/user-attachments/assets/93b97310-da02-475a-8efd-17ca734cc825" />
+  3. <img width="1918" height="929" alt="Screenshot 2025-08-14 232041" src="https://github.com/user-attachments/assets/7c281e36-2683-4ec5-b97b-dba4aadef06f" />
+  4. <img width="1919" height="929" alt="Screenshot 2025-08-14 232051" src="https://github.com/user-attachments/assets/51970f45-c48a-4af9-92b5-075168f731a4" />
+  5. <img width="1919" height="919" alt="Screenshot 2025-08-14 232100" src="https://github.com/user-attachments/assets/a434943a-7c91-4e02-a2b5-9d520851c477" />
+
+
+
+     
+
+
+
+
+
+
+
+
